@@ -27,6 +27,7 @@
   display: inline-block;
   margin: 0 20px;
 }
+
 .navbar ul li a{
   text-decoration: none;
   color: #fff;
@@ -35,10 +36,10 @@
 .navbar ul li::after{
   content: '';
   height: 3px;
-  width: 100%;
+  width: 0;
   background: #009688;
   position: absolute;
   left: 0;
-  bottom: 0;
+  bottom: -10px;
 }
   
