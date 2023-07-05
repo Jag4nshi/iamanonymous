@@ -89,7 +89,7 @@ span{
   z-index: -1;
   transition: 0.5s;
 }
-button:hover  span{
+button:hover span{
   width: 100%;
 }
 button:hover{
