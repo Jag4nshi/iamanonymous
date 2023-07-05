@@ -10,6 +10,10 @@
   background-size: cover;
   backgrounf-position: center;
 }
+.img{
+  width: 200px;
+  height: 60px;
+}
 .navbar{
   width: 85%;
   margin: auto;
@@ -21,4 +25,9 @@
 .logo{
   width: 120px;
   cursor: pointer;
+}
+.navbar ul li{
+  list-style: none;
+  display: inline-black;
+  margin: 0 20px;
 }
