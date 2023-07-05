@@ -28,6 +28,6 @@
 }
 .navbar ul li{
   list-style: none;
-  display: inline-black;
+  display: inline-block;
   margin: 0 20px;
 }
