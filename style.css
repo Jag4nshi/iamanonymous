@@ -75,7 +75,6 @@ button{
   color: #fff;
   cursor: pointer;
   position: relative;
-  overflow: hidden;
 }
 span{
   background: #009688;
